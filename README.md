@@ -1,3 +1,5 @@
+<!-- ok so its prett much just html to config format (may need to brush up) -->
+
 <div align="center">
 <h1> learning </h1> <a href="#"><img alt="language" src=""></a>
 </div>
@@ -10,6 +12,15 @@ Random
 ### Dependencies
     <=Python3.11, gTTS, pyaudio, playsound==1.2.2, deep-translator, SpeechRecognition, google-transliteration-api, cx-Freeze
 
+
+### Dependencies
+```
+sdadsdsadas, 
+ijji
+```
+    hello
+<!--  (tab creates the inv bar *useful)-->
+    
 
 ### Getting started
 
@@ -38,12 +49,17 @@ Random
     ```
 
 ### Program Flow:
-<a href="#"><img src="https://github.com/SamirPaulb/real-time-voice-translator/assets/77569653/73dd62d6-798d-4129-aff3-16d6d932a817" alt="Block Diagram of Voice Translator"></a>
+<a href="#"><img src="" alt="Block Diagram of Voice Translator"></a>
 
 
-### Install Windows/Linux/Mac Application <a href="https://github.com/SamirPaulb/real-time-voice-translator/releases/latest"><img src="https://user-images.githubusercontent.com/132539454/278971282-8d676023-a03a-463c-8e55-3f0afe6e3e58.svg" alt="DOWNLOAD"></a>
+### Install Windows/Linux/Mac Application 
+<a href="£"><img src="https://user-images.githubusercontent.com/132539454/278971282-8d676023-a03a-463c-8e55-3f0afe6e3e58.svg" alt="DOWNLOAD useful small icon"></a>
+<!-- put link in £ and spaces matter in html aka cant put a space/comment inbetween <> syntax and all  -->
 
-I am using <a href="https://github.com/marcelotduarte/cx_Freeze/tree/main">cx_Freeze</a> to build executable file of this app. The build settings can be changed by modifying the <a href="https://github.com/SamirPaulb/real-time-voice-translator/blob/main/setup.py">setup.py</a> file.
+jnnjn<p>
+sdnsj
+
+
 
 ##### Build installer containing all the files:
 - Windows: ```python setup.py bdist_msi```
@@ -53,3 +69,5 @@ I am using <a href="https://github.com/marcelotduarte/cx_Freeze/tree/main">cx_Fr
 
 ### GUI 
 <a href="#"><img src="https://github.com/SamirPaulb/real-time-voice-translator/assets/77569653/f96a4115-a88f-4096-9a00-954b8527d872" alt="App GUI"></a>
+
+<!--  Not sure where to store img locally will have to find out -->
